@@ -1,0 +1,7 @@
+ComponentTest {
+    Components {
+        A {}
+        B {}
+        C {}
+    }
+}
